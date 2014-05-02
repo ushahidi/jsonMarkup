@@ -1,0 +1,13 @@
+{
+  "name": "jsonMarkup",
+  "repo": "ushahidi/jsonMarkup",
+  "description": "A little jQuery plugin that takes JSON and makes markup.",
+  "version": "1.0.0",
+  "author": "Jonathon Morgan <jonathon@ushahidi.com>",
+  "keywords": ["jQuery", "JSON"],
+  "dependencies": {
+    "jQUery": "2.0.0"
+  },
+  "main": "jsonMarkup.js",
+  "license": "MIT"
+}

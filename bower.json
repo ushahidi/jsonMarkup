@@ -1,0 +1,22 @@
+{
+  "name": "jsonMarkup",
+  "main": "jsonMarkup.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ushahidi/jsonMarkup",
+  "authors": [
+    "Jonathon Morgan <jonathon@goodattheinternet.com>"
+  ],
+  "description": "A little jQuery plugin that takes JSON and makes markup",
+  "keywords": [
+    "jQuery",
+    "JSON"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

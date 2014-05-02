@@ -1,3 +1,8 @@
+//     jsonMarkup.js
+//
+//     Copyright (c) 2014 Jonathon Morgan
+//     MIT License - http://opensource.org/licenses/mit-license.php
+
 (function($) {
   var buildContainerNode = function(keyName, $parent) {
     var $node = $('<div>', {class: 'property-container'});
